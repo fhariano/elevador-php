@@ -26,7 +26,7 @@ cd elevador-php
 ```
 php index.php
 ```
-Ou, se preferir, pode testar dentro de um servidor local como o XAMPP ou Laragon.
+Ou, se preferir, pode testar dentro de um servidor local como o <a href="https://www.apachefriends.org/pt_br/download.html" target="_blank">XAMPP</a> ou <a href="https://laragon.org/" target="_blank">Laragon</a>.
 
 ### 📄 Como Usar
 A classe elevador está definida da seguinte forma:
